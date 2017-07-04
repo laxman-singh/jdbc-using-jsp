@@ -9,3 +9,4 @@ build/
 #eclipse specific files
 .classpath
 .project
+.settings
